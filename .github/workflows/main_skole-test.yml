@@ -19,6 +19,7 @@ jobs:
       - name: Run tests
         working-directory: ./<Navnet på folderen med unit tetst projektet>
         run: dotnet test
+        
   build:
     runs-on: windows-latest
     needs: test
@@ -82,5 +83,6 @@ test:
       working-directory: ./PrimeService.Tests
       run: dotnet test
           
+
 
 
