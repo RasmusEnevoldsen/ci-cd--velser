@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
+    "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj": {
+    "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService.Tests\\PrimeService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "projectName": "PrimeService.Tests",
-        "projectPath": "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectPath": "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "packagesPath": "C:\\Users\\TGThe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService.Tests\\obj\\",
+        "outputPath": "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TGThe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
-                "projectPath": "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj"
+              "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService\\PrimeService.csproj": {
+                "projectPath": "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService\\PrimeService.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
+    "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectPath": "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\TGThe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TGThe\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
+        "outputPath": "C:\\Users\\TGThe\\Documents\\Cyber Security\\ci-cd--velser\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TGThe\\AppData\\Roaming\\NuGet\\NuGet.Config",
