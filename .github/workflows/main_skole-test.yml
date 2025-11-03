@@ -78,3 +78,4 @@ jobs:
           app-name: 'skole-test'
           slot-name: 'Production'
           package: .
+
