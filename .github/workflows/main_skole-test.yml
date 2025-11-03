@@ -3,9 +3,9 @@
 
 name: Build and deploy ASP.Net Core app to Azure Web App - skole-test
   scan-for-vunerable-packages:
- runs-on: windows-latest
+     runs-on: windows-latest
 
- steps:
+   steps:
    - uses: actions/checkout@v4
    - name: Check for vulnerable packages
      working-directory: ./SqlInjection
@@ -87,6 +87,7 @@ jobs:
           slot-name: 'Production'
           package: .
           
+
 
 
 
